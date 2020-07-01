@@ -1,3 +1,3 @@
 # MLModelAPI
 
-We can create our machine learning model API and use our work on different platforms like Android,WebApp etc....
+By Using Machine learning model API we can deploye it on cloud and directly use our machine learning model on different platforms like Android,Web App etc
